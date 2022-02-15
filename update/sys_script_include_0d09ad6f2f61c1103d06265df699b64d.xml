@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_58872_needit.sumTwo</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>sumTwo</name>
+        <script><![CDATA[function sumTwo(x,y){
+	gs.addInfoMessage('hey there,Ans is + '+ x+y);
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-14 13:58:06</sys_created_on>
+        <sys_id>0d09ad6f2f61c1103d06265df699b64d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sumTwo</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_include_0d09ad6f2f61c1103d06265df699b64d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-14 13:58:20</sys_updated_on>
+    </sys_script_include>
+</record_update>
